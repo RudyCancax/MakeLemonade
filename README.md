@@ -5,7 +5,7 @@
 ## 2- Multiple clicks to squeeze 
 ### Default status of counter in 0
 ![image](https://github.com/user-attachments/assets/a48a25f7-402a-460c-b3c2-497f492b8e0e)
-### The counter updates with new value after use clicks the image
+### The counter updates with new value after user clicks the image
 When counter is equal to random clicks, can continue with next step
 ![image](https://github.com/user-attachments/assets/646506ab-361b-4188-ae82-ef4dddb036d8)
 
